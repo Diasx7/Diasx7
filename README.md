@@ -22,18 +22,13 @@
 
 ###
 
-<div align="center">
-  <a href="www.linkedin.com/in/ joão-pablo-de-souza-dias-7b0322262" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="joaopablosouzadias79@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+<h3 align="center">Ainda aprendendo, mas já construindo coisas que funcionam de verdade.</h3>
 
 ###
 
-<h3 align="center">Ainda aprendendo, mas já construindo coisas que funcionam de verdade.</h3>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
 
